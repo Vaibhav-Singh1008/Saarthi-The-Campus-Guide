@@ -14,4 +14,4 @@ Saarthi is a mentorship booking platform that filters noise and connects student
 
 ## 🛠️ Tech Stack
 - Frontend: HTML/CSS (or React)
-- Backend: (Jo use karoge)
+- Backend: (---)
