@@ -1,8 +1,5 @@
 # 🚀 SAARTHI - Your Campus Guide
 
-**Team:** SynergyX
-**Event:** RIFT '26
-
 ## 🧐 The Problem
 Juniors are confused. Seniors are spammed.
 There is a lack of structured guidance in college campuses.
